@@ -1,0 +1,9 @@
+1. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/datetime-local------------ datetime code
+
+2. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/time --------------- for hours and minutes
+
+3. https://www.w3schools.com/tags/tag_option.asp------------ for options tag
+
+4. https://stackoverflow.com/questions/32039568/what-are-the-integrity-and-crossorigin-attributes ----- for bootstrap
+
+5. https://tympanus.net/codrops/2012/11/02/heading-set-styling-with-css/ ------ for Heading  of application
